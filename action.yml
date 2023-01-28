@@ -2,6 +2,9 @@
 name: Codeball AI Code Review
 description: AI Code Review – Codeball approves Pull Requests that a human would have approved. Wait less for review, save time and money.
 
+name: Codeball AI Code Review
+  uses: sturdy-dev/codeball-action@v2.6.0
+
 author: Sturdy
 branding:
   icon: check
